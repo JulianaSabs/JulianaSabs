@@ -5,9 +5,12 @@
 - 📫 How to reach me: juliana2.2@hotmail.com
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianasabs&show_icons=true&locale=en&layout=compact" alt="julianasabs" /> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianasabs&" alt="julianasabs" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianasabs&show_icons=true&locale=en&layout=compact" alt="julianasabs" height = "165em"/> 
+ &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianasabs&show_icons=true&locale=en" alt="julianasabs" height = "165em" />
+</div>
+
 </p>
 <p></p>
 
