@@ -5,7 +5,14 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianasabs&show_icons=true&locale=en&layout=compact" alt="julianasabs" height = "165em"/> 
+ &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianasabs&show_icons=true&locale=en" alt="julianasabs" height = "165em" />
+</div>
+
+</p>
+<p></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
