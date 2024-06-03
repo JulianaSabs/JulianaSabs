@@ -3,16 +3,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianasabs&show_icons=true&locale=en&layout=compact" alt="julianasabs" height = "165em"/> 
- &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianasabs&show_icons=true&locale=en" alt="julianasabs" height = "165em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianaSabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaSabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</p>
-<p></p>
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,6 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JulianaSabs/JulianaSabs/output/snake.svg" alt="Snake animation" />
 
 ###
