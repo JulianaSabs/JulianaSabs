@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juliana</h1>
-<h3 align="center">A passionate FullStack developer from Brazil, currently working with ASP.NET, .NET, C# and Javascript</h3>
+<h3 align="center">A passionate FullStack developer from Brazil, currently working with ASP.NET, .NET, C#, Typescript and Angular</h3>
 
-- 🌱 I’m currently learning **Vue and Angular**
 - 📫 How to reach me: juliana2.2@hotmail.com
 
 
