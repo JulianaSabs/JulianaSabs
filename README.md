@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Juliana </h2>
-<h3>I'm a passionate FullStack developer from Brazil, currently working with Typescript, Angular, ASP.NET, .NET, C#</h3>
+<h3>I'm a passionate FullStack developer from Brazil, currently working with Typescript, Angular, .NET, C#</h3>
 
 ###
 
